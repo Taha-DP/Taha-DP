@@ -2,13 +2,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=7DD3FC&center=true&vCenter=true&multiline=false&width=800&lines=Full-Stack+TypeScript+Developer+%7C+Next.js+%7C+React+%7C+PostgreSQL;Building+fast+and+accessible+web+apps+for+clients+and+teams;Open+to+freelance+and+remote+projects" alt="Full-Stack TypeScript Developer" />
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%A7%8A+I'm+Taha+Dehghanpour" alt="Hi, I'm Taha Dehghanpour" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TahaDP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TahaDP)
 [![Email](https://img.shields.io/badge/Email-hello%40tahadp.com-3178C6?style=for-the-badge&logoColor=white)](mailto:hello@tahadp.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Taha--DP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Taha-DP)
+[![Website](https://img.shields.io/badge/Website-tahadp.com-0EA5E9?style=for-the-badge)](https://tahadp.com)
 [![Location](https://img.shields.io/badge/📍_Germany-0369A1?style=for-the-badge&logoColor=white)](#)
 
 <!-- When tahadp.com is live, add a badge row entry:
