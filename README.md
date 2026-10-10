@@ -1,15 +1,15 @@
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Taha+Dehghanpour" alt="Hi, I'm Taha Dehghanpour" />
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%A7%8A+I'm+Taha+Dehghanpour" alt="Hi, I'm Taha Dehghanpour" />
 
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%A7%8A+I'm+Taha+Dehghanpour" alt="Hi, I'm Taha Dehghanpour" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=7DD3FC&center=true&vCenter=true&multiline=false&width=800&lines=Full-Stack+TypeScript+Developer+%7C+Next.js+%7C+React+%7C+PostgreSQL;Building+fast+and+accessible+web+apps+for+clients+and+teams;Open+to+freelance+and+remote+projects" alt="Full-Stack TypeScript Developer" />
 
 <br/><br/>
 
+[![Website](https://img.shields.io/badge/Website-tahadp.com-0EA5E9?style=for-the-badge)](https://tahadp.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TahaDP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TahaDP)
 [![Email](https://img.shields.io/badge/Email-hello%40tahadp.com-3178C6?style=for-the-badge&logoColor=white)](mailto:hello@tahadp.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Taha--DP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Taha-DP)
-[![Website](https://img.shields.io/badge/Website-tahadp.com-0EA5E9?style=for-the-badge)](https://tahadp.com)
 [![Location](https://img.shields.io/badge/📍_Germany-0369A1?style=for-the-badge&logoColor=white)](#)
 
 <!-- When tahadp.com is live, add a badge row entry:
@@ -28,13 +28,24 @@ I work by one rule: **less, but better.** Fewer tools, fewer dependencies, simpl
 
 ```typescript
 const taha = {
-  focus:      ["Full-Stack Web", "TypeScript", "Performance", "Accessibility"],
-  principle:  "Less, but better",
-  stack:      ["TypeScript", "React", "Next.js", "Tailwind CSS", "PostgreSQL", "Prisma"],
-  quality:    ["Vitest", "Playwright", "GitHub Actions"],
-  askMeAbout: ["Next.js App Router", "Server Components", "Type-safe forms and APIs"],
-  openTo:     ["Freelance", "Remote"],
-  location:   "Germany",
+  focus: ["Full-Stack Web", "TypeScript", "Performance", "Accessibility"],
+  principle: "Less, but better",
+  stack: [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Tailwind CSS",
+    "PostgreSQL",
+    "Prisma",
+  ],
+  quality: ["Vitest", "Playwright", "GitHub Actions"],
+  askMeAbout: [
+    "Next.js App Router",
+    "Server Components",
+    "Type-safe forms and APIs",
+  ],
+  openTo: ["Freelance", "Remote"],
+  location: "Germany",
 };
 ```
 
@@ -43,6 +54,7 @@ const taha = {
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -50,6 +62,7 @@ const taha = {
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### ⚙️ Backend & Data
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -57,6 +70,7 @@ const taha = {
 ![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logoColor=white)
 
 ### ✅ Quality & Tooling
+
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -64,6 +78,7 @@ const taha = {
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ### ☁️ Infrastructure
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
@@ -71,11 +86,11 @@ const taha = {
 
 ## 🌍 Languages
 
-| Language | Level |
-|----------|-------|
+| Language   | Level  |
+| ---------- | ------ |
 | 🇮🇷 Persian | Native |
-| 🇬🇧 English | B2 |
-| 🇩🇪 German | B2 |
+| 🇬🇧 English | B2     |
+| 🇩🇪 German  | B2     |
 
 ---
 
@@ -90,7 +105,7 @@ I'm open to **freelance and remote projects**: business websites and web applica
 
 <div align="center">
 
-*"Less, but better."*
+_"Less, but better."_
 
 ![](https://img.shields.io/badge/-%E2%80%83-0369A1?style=flat&labelColor=0369A1)
 ![](https://img.shields.io/badge/-%E2%80%83-0284C7?style=flat&labelColor=0284C7)
