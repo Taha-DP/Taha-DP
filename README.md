@@ -1,10 +1,31 @@
-<img src="assets/header.svg" alt="Taha Dehghanpour, Full-Stack TypeScript Developer" width="100%">
+<div align="center">
 
-I build fast, accessible web applications with TypeScript, React and Next.js, for clients and teams, remotely.
+  <!-- Typing Animation Header -->
+  <a href="https://tahadp.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Taha+Dehghanpour;Full-Stack+TypeScript+Developer;Building+Minimal+%26+Scalable+Web+Apps" alt="Typing Header" />
+  </a>
 
-My day-to-day stack is TypeScript, React, Next.js, Tailwind CSS, PostgreSQL and Prisma, tested with Vitest and Playwright.
+  <p align="center">
+    <b>Minimalist • Quality-Driven • Results-Oriented</b>
+  </p>
 
-Right now I'm building my own site, tahadp.com.
-<!-- When tahadp.com is live: turn it into a link and add a short "Selected work" section. -->
+  <p align="center">
+    <a href="https://tahadp.com">🌐 Portfolio</a> •
+    <a href="mailto:taha@tahadp.com">✉️ Contact</a> •
+    <a href="https://linkedin.com/in/TahaDP">💼 LinkedIn</a>
+  </p>
 
-Reach me at [hello@tahadp.com](mailto:hello@tahadp.com) or on [LinkedIn](https://linkedin.com/in/TahaDP).
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+```typescript
+const taha = {
+  code: ["TypeScript", "React", "Next.js", "Node.js", "TailwindCSS"],
+  database: ["PostgreSQL", "Prisma", "Redis"],
+  devOps: ["Docker", "Podman", "Linux", "Cloudflare", "Nginx"],
+  architecture: "Clean, Scalable & Modern Web Applications",
+  location: "Germany 🇩🇪"
+};
